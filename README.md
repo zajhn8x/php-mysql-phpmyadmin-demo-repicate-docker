@@ -8,7 +8,7 @@ Yêu cầu docker
 git clone 
 *Bước 2*
 docker-composer up
-*Bước 3: test phpmyadmin
+*Bước 3: test phpmyadmin*
 master: localhost:8001  dev/dev
 slave: localhost:8002  dev/dev
 
